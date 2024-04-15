@@ -1,6 +1,13 @@
 # Eduardo's README
 
-This is a brief introduction about myself. Here you should see my projects, my awards, and a little bit about my hobbies.
+This is a brief introduction about myself. I am a current MSc. Mechatronics Systems at the University of Brasília and just got admitted at the KTH (Royal Institute of Technology, Stockholm, in MSc. Engineering Design) or at the DTU (Technical University of Denmark, Copenhagen, MSc. Materials and Manufacturing Engineering) Here you should see my projects, my awards, and a little bit about my hobbies.
+
+## Table of Contents
+
+- [Projects](#proj)
+- [Awards](#awa)
+- [Hobbies](#hobs)
+
 
 ## Hi, I'm Eduardo, a MSc. Mechatronics Systems at the University of Brasília and this is a test to my Github account.
 
@@ -13,10 +20,9 @@ Brief description of what the project does.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Projects](#proj)
+- [Awards](#awa)
+- [Hobbies](#hobs)
 
 ## Installation
 
