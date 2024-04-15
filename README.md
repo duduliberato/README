@@ -8,7 +8,7 @@ This is a brief introduction about myself. I am a current MSc. Mechatronics Syst
 - [Awards](#awa)
 - [Hobbies](#hobs)
 
-##[Projects](#proj)
+## [Projects](#proj)
 
 As a recently graduated Engineering Student, I do not have much experience in differnt fields. However, I can show you some of my works that I did during my Engineering Degree course in Mechatronics.
 
