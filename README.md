@@ -1,6 +1,6 @@
 # Eduardo's README
 
-This is a brief introduction about myself. I am a current MSc. Mechatronics Systems at the UnB (University of Brasília - 🇧🇷 Flag - MSc. Mechatronics Systems) and just got admitted at the KTH (Royal Institute of Technology - 🇸🇪- in MSc. Engineering Design) or at the DTU (Technical University of Denmark - 🇩🇰 - MSc. Materials and Manufacturing Engineering) Here you should see my projects, my awards, and a little bit about my hobbies.
+This is a brief introduction about myself. I am a Mechatronics Engineer from the University of Brasília. I am a current MSc. Mechatronics Systems at the UnB (University of Brasília - 🇧🇷 - MSc. Mechatronics Systems) and just got admitted at the KTH (Royal Institute of Technology - 🇸🇪- in MSc. Engineering Design) or at the DTU (Technical University of Denmark - 🇩🇰 - MSc. Materials and Manufacturing Engineering) Here you should see my projects, my awards, and a little bit about my hobbies. 
 
 ## Table of Contents
 
