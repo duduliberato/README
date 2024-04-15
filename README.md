@@ -8,6 +8,9 @@ This is a brief introduction about myself. I am a current MSc. Mechatronics Syst
 - [Awards](#awa)
 - [Hobbies](#hobs)
 
+##[Projects](#proj)
+
+As a recently graduated Engineering Student, I do not have much experience in differnt fields. However, I can show you some of my works that I did during my Engineering Degree course in Mechatronics.
 
 ## Hi, I'm Eduardo, a MSc. Mechatronics Systems at the University of Brasília and this is a test to my Github account.
 
@@ -23,15 +26,3 @@ Brief description of what the project does.
 - [Projects](#proj)
 - [Awards](#awa)
 - [Hobbies](#hobs)
-
-## Installation
-
-```bash
-# Clone the repository
-$ git clone https://github.com/yourusername/projectname.git
-
-# Navigate to the project directory
-$ cd projectname
-
-# Install dependencies
-$ npm install
