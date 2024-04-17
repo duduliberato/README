@@ -1,6 +1,6 @@
 # Eduardo's README
 
-This is a brief introduction about myself. I am a Mechatronics Engineer from the University of Brasília. I am a current MSc. Mechatronics Systems at the UnB (University of Brasília - 🇧🇷 - MSc. Mechatronics Systems) and just got admitted at the KTH (Royal Institute of Technology - 🇸🇪- in MSc. Engineering Design) or at the DTU (Technical University of Denmark - 🇩🇰 - MSc. Materials and Manufacturing Engineering) Here you should see my projects, my awards, and a little bit about my hobbies. 
+This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília UnB (University of Brasília - 🇧🇷 - MSc. Mechatronics Systems). I am a current MSc. Mechatronics Systems at the UnB, but just got admitted at the KTH (Royal Institute of Technology - 🇸🇪- in MSc. Engineering Design) and at the DTU (Technical University of Denmark - 🇩🇰 - MSc. Materials and Manufacturing Engineering) Here you should see my projects, my awards, and a little bit about my hobbies. 
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ This is a brief introduction about myself. I am a Mechatronics Engineer from the
 
 ## [Projects](#proj)
 
-As a recently graduated Engineering Student, I do not have much experience in differnt fields. However, I can show you some of my works that I did during my Engineering Degree course in Mechatronics.
+As a recently graduated Engineer, I do not yet have much experience, but, as my Final Work in Mechatronics Engineering, I built a bending machine, capable of bending thin metal sheets. This device could serve to perform tests in metals, serving as a ludic-pedagogic device, that can be used by professors and academics that want to perform better 
 
 ## Hi, I'm Eduardo, a MSc. Mechatronics Systems at the University of Brasília and this is a test to my Github account.
 
