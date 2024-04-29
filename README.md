@@ -3,7 +3,8 @@
 
 
 
-This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília UnB (University of Brasília - 🇧🇷 - MSc. Mechatronics Systems). I am a current MSc. Mechatronics Systems Researcher student at the UnB, in Oil and Gas Laboratory 🛢️🏎️ with focus in Electrical Grid Flexibility for the energy transition, , but just got admitted at the KTH (Royal Institute of Technology - 🇸🇪- in MSc. Engineering Design). In this file, I will try to show you my projects, my awards, and a little bit about my hobbies.
+This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília (UnB 🔵🟢 - 🇧🇷 🟢🟡🔵). I am a current MSc. Mechatronics Systems Researcher student at the UnB, in Oil and Gas Laboratory 🛢️🏎️ with focus in Electrical Grid Flexibility for the energy transition, but just got admitted at the KTH (Royal Institute of Technology - 🇸🇪 -) in MSc. Engineering Design program. In this file, I will try to show you my projects, my awards, and a little bit about my hobbies.
+
 
 ## Table of Contents
 
