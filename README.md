@@ -3,8 +3,8 @@
 [![University of Brasília](https://example.com/unb_logo.png)](https://www.unb.br)
 
 
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Eduardo_Liberato)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-l-ba774b209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9W2xDkrrSeeQqL8gFbY1Jw%3D%3D)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Eduardo_Liberato)
 
 
 This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília (UnB 🔵🟢 - 🇧🇷). I am a current MSc. Mechatronics Systems Researcher student at the UnB, in the Oil and Gas Laboratory 🛢️🏎️ with focus in Electrical Grid Flexibility 🔋☀️💧 and its impact into the energy transition, one should note that this laboratory is aiming its efforts in the energy sector as well. Additionally, I just got admitted at the Royal Institute of Technology (KTH 🔵⚪ - 🇸🇪 ) in MSc. Engineering Design program.
